@@ -8,7 +8,7 @@ How to use the script in your server:
 
 Dependecies 
 - vorp-core
-- vorp-progressbar
+- feather-progressbar
 
 Description:
 to check a player simply go near him and use the command in the config with the player ID 
